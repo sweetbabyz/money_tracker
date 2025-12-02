@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.jizhangbao.app-mergeDebugResources-40:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/e.elham/.gradle/caches/transforms-4/58bae2cb82491aaa2df641eb09402467/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

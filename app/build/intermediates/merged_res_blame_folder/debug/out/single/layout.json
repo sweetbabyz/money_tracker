@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/activity_post_info.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_post_info.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/post_item.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/post_item.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/create_bili_dialog.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/create_bili_dialog.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/activity_set_password.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_set_password.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/item_bil_date.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/item_bil_date.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/fragment_user.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/fragment_book.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/activity_main.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/activity_reg_user.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_reg_user.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/fragment_community.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_community.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/activity_login.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/item_bili.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/item_bili.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-mergeDebugResources-41:/layout/fragment_iot_java.xml",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_iot_java.xml"
+    }
+]

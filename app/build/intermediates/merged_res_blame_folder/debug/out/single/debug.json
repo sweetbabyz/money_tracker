@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_main_menu_book.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/main_menu_book.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_main_menu_add.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/main_menu_add.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_activity_post_info.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_post_info.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_activity_login.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_post_item.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/post_item.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_bili_dialog_date.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/bili_dialog_date.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_loginout.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/loginout.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/menu_main_menu.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_communities.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/communities.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_fragment_community.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_community.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_fragment_iot_java.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_iot_java.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_resource_package.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/resource_package.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/xml_backup_rules.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_apparel.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/apparel.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_main_menu_iot.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/main_menu_iot.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_item_bili.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/item_bili.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_local_taxi.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/local_taxi.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_fragment_user.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_user.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_main_menu_person.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/main_menu_person.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_set_password.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/set_password.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_school.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/school.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_ramen_dining.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/ramen_dining.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_item_date_bg.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/item_date_bg.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_activity_set_password.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_set_password.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_fragment_book.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_create_bili_dialog.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/create_bili_dialog.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_resource_public.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/resource_public.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/drawable_medical_services.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/drawable/medical_services.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_item_bil_date.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/item_bil_date.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/layout_activity_reg_user.xml.flat",
+        "source": "com.example.jizhangbao.app-main-44:/layout/activity_reg_user.xml"
+    },
+    {
+        "merged": "com.example.jizhangbao.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jizhangbao.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

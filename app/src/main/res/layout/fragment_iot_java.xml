@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/functionArea"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:padding="10dp">
+
+
+        <TextView
+            android:id="@+id/online_devices_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="35dp"
+            android:layout_marginBottom="10dp"
+            android:text="已绑定设备"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/online_devices_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="100dp"
+            android:layout_marginBottom="10dp"
+            android:layout_toRightOf="@id/online_devices_label"
+            android:text="1台"
+            android:textSize="30sp" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="80dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="271dp"
+                android:padding="10dp">
+
+                <!-- 设备名称 -->
+
+                <!-- 设备连接状态 -->
+
+                <!-- 设备连接状态按钮 -->
+
+                <TextView
+                    android:id="@+id/device_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="30dp"
+                    android:layout_marginTop="20dp"
+                    android:text="设备名称: 抽水泵"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/device_status_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/device_name"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="24dp"
+                    android:text="设备连接状态"
+                    android:textSize="15sp" />
+
+                <Button
+                    android:id="@+id/device_status_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/device_name"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="19dp"
+                    android:layout_marginRight="50dp"
+                    android:text="连接" />
+
+                <TextView
+                    android:id="@+id/sync_status_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/device_status_label"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="50dp"
+                    android:text="控制按钮"
+                    android:textSize="14sp" />
+
+                <Button
+                    android:id="@+id/sync_ON_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/device_status_label"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="43dp"
+                    android:layout_marginRight="50dp"
+                    android:text="开启" />
+
+                <Button
+                    android:id="@+id/sync_OFF_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/device_status_label"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="91dp"
+                    android:layout_marginRight="50dp"
+                    android:text="关闭" />
+
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+
+</FrameLayout>
